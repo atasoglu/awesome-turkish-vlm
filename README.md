@@ -7,6 +7,13 @@ This repository is an awesome list of curated resources dedicated to Turkish Vis
 
 Contributions and suggestions are warmly welcomed! 🌟
 
+## 🤖 Models
+
+|Name|Size|License|
+|:---|:---|:------|
+|[ytu-ce-cosmos/Turkish-LLaVA-v0.1](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)|8B|MIT|
+|TraVisionLM [Base](https://huggingface.co/ucsahin/TraVisionLM-base) - [DPO](https://huggingface.co/ucsahin/TraVisionLM-DPO) - [Object-Detection-ft](https://huggingface.co/ucsahin/TraVisionLM-Object-Detection-ft) |875M|Apache 2.0|
+
 ## 📚 Datasets 
 
 |Name|Description|Size|License|
