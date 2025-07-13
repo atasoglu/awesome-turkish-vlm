@@ -44,7 +44,7 @@ Contributions and suggestions are warmly welcomed! 🌟
 |:---|:----------|:---|:------|
 |[ytu-ce-cosmos/turkce-kitap](https://huggingface.co/datasets/ytu-ce-cosmos/turkce-kitap)|Book cover collection designed to improve the Turkish OCR ability.|108k||
 |[ytu-ce-cosmos/Turkish-LLaVA-Pretrain](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Pretrain)|Pretraining dataset for Turkish base VLM.|595k||MIT|
-|[ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)|Fine-tuning dataset for Turkish VLM.|||
+|[ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)|Fine-tuning dataset for Turkish VLM.|522k||
 |[ucsahin/COCO-OD-TR-Single-Objects-v2](https://huggingface.co/datasets/ucsahin/COCO-OD-TR-Single-Objects-v2)|Combined dataset for object detection task.|153k||
 |[ucsahin/Turkish-VLM-Mix-Benchmark](https://huggingface.co/datasets/ucsahin/Turkish-VLM-Mix-Benchmark)|Combined dataset for benchmark.|35k||
 |[ucsahin/TR-VLM-DPO-Dataset](https://huggingface.co/datasets/ucsahin/TR-VLM-DPO-Dataset)|DPO formatted instruction-following dataset.|10k||
